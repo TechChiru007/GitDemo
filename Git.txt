@@ -1,0 +1,15 @@
+1.Git is a version controle System
+2.Install git(https://git-scm.com/downloads)
+3.GITHub we post our repository and people download from there central repo
+4.https://github.com/
+
+tell git who you are 
+C:\Users\crana>git config --global user.name "Chiranjeev"
+
+C:\Users\crana>git config --global user.email "chiranjeev.biz1@gmail.com"
+ 
+5.Create one document and navigate to that doc
+  C:\Users\crana>cd GitStuff
+6.Befor pushing code give folowing git cmd to create connection
+  C:\Users\crana>git init
+
