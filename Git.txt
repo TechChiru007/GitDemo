@@ -13,3 +13,20 @@ C:\Users\crana>git config --global user.email "chiranjeev.biz1@gmail.com"
 6.Befor pushing code give folowing git cmd to create connection
   C:\Users\crana>git init
 
+7.Staging  (commit 1)
+  git add *
+
+  git status
+
+8.git commit -m "First Commit"
+_________________________________push____________________________________________
+9.git remote add origin https://github.com/TechChiru007/GitDemo.git
+
+10.git push origin master 
+
+____________________First time we want a fresh reop we clone it ___________________
+
+1. >git clone https://github.com/TechChiru007/GitDemo.git
+
+______________________pull request_____________________________
+git pull origin master 
